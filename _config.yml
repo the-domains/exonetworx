@@ -1,0 +1,28 @@
+name: ExoNetworx
+favicon: null
+layout_spectrum: 0.7860036806669086
+typography_spectrum: 0.7578946098219603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.12107866234146059
+  lightness: 0.6786015336401761
+  saturation: 0.8881270252168179
+  rhythmicContrast: 0.8527100272476673
+purpose: []
